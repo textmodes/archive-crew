@@ -1,0 +1,8 @@
+name: Charm
+site: ""
+pack:
+- charm#05.zip
+- charm01.zip
+- charm02.zip
+- charm03.zip
+- charm04.zip

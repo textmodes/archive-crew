@@ -1,0 +1,9 @@
+name: bamboo
+site: ""
+biography: |-
+  bamboo is an ASCII division of #grungesoft, it was organized at April of
+  1999.
+pack:
+- bamboo01.zip
+- bamboo02.zip
+- bamboo03.zip
